@@ -15,3 +15,8 @@ Learning log,
 1.	Leg uit wanneer een website 'lelijk' wordt en geef voorbeelden wat je kan doen om deze 'lelijke' onderdelen te fixen? Een website wordt lelijk wanneer je alleen html schrijft er voor. Dit kan je oplossen door met grids, rows en columns te werken in css  
 2.	Vertel welke volgende stap je neemt om je website responsive te maken. Stylen met css
 3.	Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen in Webby vocabulair? Het ontwerp is bijvoorbeeld volwassen, omdat het geen data verzamelt
+
+16-09-2026
+1. Noem 3 Gestalt- of Design principes op en laat de ander uitleggen wat ze betekenen en doen. Lars noemde: Symmetrie, Balans, Nabijheid. Symmetrie houdt in dat het op een soort ruggengraat staat en beide kanten elkaar spiegelen. Balans is een vorm van symmetrie, waar beide kanten in balans met elkaar staan, kan ook een soort van wiebelend (net als met skiën of skatboarden). Nabijheid houdt in dat je voorwerpen kunt groeperen zonder ze in een kader te zetten door ze simpelweg bij elkaar te zetten.
+2. Een grid biedt ruimte om te spelen (vrijheid), maar tegelijkertijd ook eenheid en structuur (vastigheid). Wat wordt hiermee bedoeld? hiermee wordt bedoeld dat je met een grid je intterface kunt ordenen en organiseren, maar het ook speels houdt, omdat je er van alles mee kan.
+3. Welk principe neem je mee in een laatste iteratie van je eigen Garden? ik neem het principe nabijheid mee in mijn laatste iteratie, door plaatjes en tekst bij elkaar te zetten.
