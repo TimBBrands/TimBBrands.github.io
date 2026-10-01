@@ -1,5 +1,149 @@
-img{
-    width: 100px;
-    height: auto;
-    border-radius: 100px;
+/* Kleuren: licht en donker via prefers-color-scheme */
+:root {
+    --tafel: #3a3a42;
+    --papier: #f3f1ec;
+    --tekst: #1b1b22;
+    --accent: #c4161c;
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --tafel: #050509;
+        --papier: #14151c;
+        --tekst: #eceae6;
+        --accent: #ff4a4f;
+    }
+}
+
+body {
+    margin: 0;
+    padding: 1rem;
+    background: var(--tafel);
+    color: var(--tekst);
+    font-family: Georgia, serif;
+}
+
+a {
+    color: inherit;
+}
+
+a:focus-visible {
+    outline: 3px solid var(--accent);
+    outline-offset: 4px;
+}
+
+/* De bladzijde van het cd-boekje */
+.boekje {
+    max-width: 62rem;
+    margin: 0 auto;
+    padding: 2rem;
+    background: var(--papier);
+    box-shadow: 0 1rem 3rem rgba(0, 0, 0, 0.6);
+    outline: 1px solid var(--tekst);
+    outline-offset: -1rem;
+}
+
+h1 {
+    margin: 0;
+    font-size: clamp(2.5rem, 9vw, 5rem);
+    line-height: 1;
+    letter-spacing: -0.03em;
+}
+
+header p {
+    margin: 0.5rem 0 2rem;
+    color: var(--accent);
+    font-style: italic;
+}
+
+/* Grid met cd's */
+.tracks {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+    counter-reset: nummer;
+}
+
+figure {
+    margin: 0;
+    counter-increment: nummer;
+}
+
+/* Elke afbeelding is een ronde cd met een gat in het midden */
+.disc {
+    display: block;
+    position: relative;
+}
+
+.disc img {
+    display: block;
+    width: 100%;
+    aspect-ratio: 1;
+    object-fit: cover;
+    border-radius: 50%;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.4);
+}
+
+.disc::after {
+    content: "";
+    position: absolute;
+    inset: 40%;
+    border-radius: 50%;
+    background: var(--papier);
+    box-shadow: 0 0 0 0.4rem rgba(255, 255, 255, 0.3);
+}
+
+/* Tracknummer en titel, zoals in een boekje */
+figcaption {
+    margin-top: 0.75rem;
+    text-align: center;
+    font-weight: bold;
+}
+
+figcaption::before {
+    content: counter(nummer) ". ";
+    color: var(--accent);
+}
+
+iframe {
+    display: block;
+    width: 100%;
+    height: 166px;
+    margin-top: 0.5rem;
+    border: 0;
+}
+
+footer {
+    margin-top: 2rem;
+    text-align: center;
+}
+
+/* Tablet: 2 kolommen, Flow State over de volle breedte */
+@media (min-width: 30rem) {
+    .tracks {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .groot {
+        grid-column: span 2;
+    }
+}
+
+/* Groter scherm: 4 kolommen, Flow State is de grote cd */
+@media (min-width: 50rem) {
+    .boekje {
+        padding: 3rem;
+    }
+
+    .tracks {
+        grid-template-columns: repeat(4, 1fr);
+    }
+
+    .groot {
+        grid-row: span 2;
+    }
+
+    .groot figcaption {
+        font-size: 1.5rem;
+    }
 }
