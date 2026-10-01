@@ -109,3 +109,19 @@ Voldoet mijn website nog wel aan de wet? ja
 Overtreed je de wet niet? Bijvoorbeeld door afbeeldingen van iemand anders te gebruiken, door je niet aan de AVG te houden, of door iets ontoegankelijk te maken? nee
 Zie ik mezelf nog wel terug in wat ik doe? jazeker
 Kijk regelmatig kritisch naar wat je aan het doen bent en vraag je dan af of dit wel is wat je wil maken, en wat je wil leren. ja
+
+28-09-2026
+Overleg met een klasgenoot en beantwoord de volgende vragen in jouw Learning-Log:
+
+1. Wat bedoelt Vasilis met de uitspraak: Semantiek doet mij niet zo veel, ik ben liever bezig met de UX van HTML? dat hij zich liever bezig houdt met wat alle html termen dan dan met wat ze betekenen
+2. Wat voor type beperkingen hebben invloed op het gebruiken van websites? visueel, motorisch, cognitief en auditief
+3. Noem drie manieren om door een website te navigeren met jouw screenreader. 1. naar de lijst met koppen gaan 2. door alles voor te laten lezen 3. met de tab toets
+
+30-09-2026
+1. Waar staat WCAG en A11y voor? Web Concent Accessability Guidelines en Accessability
+
+2. Wat vind je lastiger, je laptop/websites alleen met een toetsenbord bedienen of met een screenreader? Waarom? Waar moet je nog mee oefenen? alleen met screenreder vind ik moeilijker, omdat ik de tab knop gewoon veel makkelijker vind, ik moet nog oefenen met beide
+
+3. Met welke beperking rekening houden vind je het meest lastig? auditieve beperking, omdat mijn website draait om muziek
+Vind je dat je beperkt wordt in wat je kunt ontwerpen? ja
+Of heb je al manieren gevonden om vanuit een solide basis  - die voor iedereen toegankelijk is - allemaal leuke en mooie extra's toe te voegen als je bezoekers dat goed vinden? nee
