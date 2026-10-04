@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Muziek</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="cookies.js" defer></script>
+</head>
+<body>
+
+    <nav aria-label="Hoofdmenu">
+        <a href="index.html">Home</a>
+        <a href="muziek.html" aria-current="page">Muziek</a>
+        <a href="README.md">README</a>
+    </nav>
+
+    <main class="draaitafel">
+
+        <header>
+            <h1>Muziek</h1>
+            <p>Tim Brands</p>
+        </header>
+
+        <section class="tracks">
+
+            <figure class="groot">
+                <a class="disc" href="https://on.soundcloud.com/6f1r5mSzywfcaquycA" aria-label="Flow State beluisteren op SoundCloud">
+                    <img src="assets/images/WhatsApp%20Image%202026-01-17%20at%2012.46.58.jpeg" alt="Hoes van Flow State: een tijger met diamanten tanden op een zwarte achtergrond">
+                </a>
+                <figcaption>Flow State</figcaption>
+            </figure>
+
+            <figure>
+                <a class="disc" href="https://on.soundcloud.com/ayaBrdO5UiDS3gHGfw" aria-label="Cavaca beluisteren op SoundCloud">
+                    <img src="assets/images/WhatsApp%20Image%202026-09-09%20at%2010.43.16.jpeg" alt="Hoes van Cavaca: een tijger met glimmende tanden op een zwarte achtergrond">
+                </a>
+                <figcaption>Cavaca</figcaption>
+            </figure>
+
+            <figure>
+                <a class="disc" href="https://on.soundcloud.com/Q3WvW6W46OiiG2Fvrd" aria-label="Setje beluisteren op SoundCloud">
+                    <img src="assets/images/image.png" alt="Hoes van een setje: een kind met een pet dat aan de telefoon zit">
+                </a>
+                <figcaption>Setje</figcaption>
+            </figure>
+
+            <figure>
+                <div class="disc">
+                    <img src="assets/images/bamii.jpg" alt="Hoes van Bami: een rood getint portret met de tekst -BAMI- erboven">
+                </div>
+                <figcaption>Bami</figcaption>
+            </figure>
+
+            <figure>
+                <a class="disc" href="https://soundcloud.com/mr-applejuice010/usbae-select-set?si=06223001ce2b4aa1bcfb086d5aa0bc2f&amp;utm_source=clipboard&amp;utm_medium=text&amp;utm_campaign=social_sharing" aria-label="USBAE select set beluisteren op SoundCloud">
+                    <img src="assets/images/a937256b-02ed-45a4-a8c7-3f97fd3dcb07.jpg" alt="Hoes van USBAE: een tijger met een zwaard in zijn bek in het donker">
+                </a>
+                <figcaption>Setje</figcaption>
+                <iframe title="SoundCloud-speler" data-src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/mr-applejuice010/usbae-select-set&amp;visual=false&amp;show_comments=false"></iframe>
+                <p class="speler-uit" hidden>Je hebt cookies geweigerd, dus de speler staat uit. Klik op de plaat om op SoundCloud te luisteren, of <button type="button" data-keuze="ja">laad de speler alsnog</button>.</p>
+            </figure>
+
+        </section>
+
+    </main>
+
+    <dialog class="cookies" aria-labelledby="cookie-titel">
+        <h2 id="cookie-titel">Cookies</h2>
+        <p>Deze website plaatst zelf geen cookies. Op de muziekpagina staat wel een SoundCloud-speler, en SoundCloud kan daarbij cookies plaatsen. Wil je die speler gebruiken?</p>
+        <form method="dialog">
+            <button type="submit" data-keuze="ja">Accepteren</button>
+            <button type="submit" data-keuze="nee">Weigeren</button>
+        </form>
+    </dialog>
+
+</body>
+</html>
