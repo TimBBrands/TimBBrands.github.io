@@ -125,3 +125,30 @@ Overleg met een klasgenoot en beantwoord de volgende vragen in jouw Learning-Log
 3. Met welke beperking rekening houden vind je het meest lastig? auditieve beperking, omdat mijn website draait om muziek
 Vind je dat je beperkt wordt in wat je kunt ontwerpen? ja
 Of heb je al manieren gevonden om vanuit een solide basis  - die voor iedereen toegankelijk is - allemaal leuke en mooie extra's toe te voegen als je bezoekers dat goed vinden? nee
+
+05-10-2026
+
+* Kerning: De ruimte tussen twee specifieke letters aanpassen zodat ze optisch goed bij elkaar staan.
+* Tracking: De letterafstand van een hele tekst of woord aanpassen.
+* Leading: De verticale ruimte tussen tekstregels.
+* Flush-left: Tekst die links uitgelijnd is en rechts een ongelijke kant heeft.
+* Flush-right: Tekst die rechts uitgelijnd is en links een ongelijke kant heeft.
+* Centered: Tekst die in het midden is uitgelijnd.
+* Justified: Tekst waarbij zowel de linker- als rechterkant recht uitgelijnd is.
+* Indent: Een inspringing aan het begin van een tekstregel of alinea.
+* Outdent: Tekst die juist buiten de normale inspringing of marge begint.
+* Modular scale: Een vaste verhouding tussen verschillende tekstgroottes om een duidelijke typografische hiërarchie te maken.
+* Movable type: Losse letters die vroeger gebruikt werden om teksten te drukken en steeds opnieuw te gebruiken.
+* Focus punt: Het belangrijkste punt in een ontwerp waar je aandacht als eerste naartoe wordt getrokken.
+* Vijf soorten contrast: Grootte, kleur, vorm, positie en ruimte kunnen van elkaar verschillen om contrast en hiërarchie te creëren.
+* Spatial tension: Spanning die ontstaat door de plaatsing en afstand van elementen binnen een ontwerp.
+
+Wat is jouw ideale regellengte (measure)? Leg uit waarom.
+Mijn ideale regellengte is ongeveer 50–75 tekens per regel, omdat tekst dan prettig leesbaar blijft en je ogen niet te ver over de pagina hoeven te bewegen.
+
+Als je in een ontwerp maar één variabele tot je beschikking had om hiërarchie aan te brengen (grootte, plaatsing, spacing, lettersoorten), welke zou je dan gebruiken en waarom?
+Ik zou grootte gebruiken, omdat je hiermee snel duidelijk kunt maken wat het belangrijkste is en een duidelijke hiërarchie kunt creëren
+
+Waarom is het goed om een grid in je ontwerp toe te passen? Noem een reden voor de ontwerper en een voor de bezoeker. voor de ontwerper is het makkelijker een boodschap over te brengen en voor de gebruiken is de website dan duidelijker en overzichtelijk
+Noem drie manieren om chaos in je ontwerp te voorkomen. grids, hierarchie, samenhang
+Hoeveel gekkigheid moet er in je werk zitten? net genoeg dat het leuk is maar dat de gebruiker het wel nog snapt
