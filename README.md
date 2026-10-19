@@ -152,3 +152,7 @@ Ik zou grootte gebruiken, omdat je hiermee snel duidelijk kunt maken wat het bel
 Waarom is het goed om een grid in je ontwerp toe te passen? Noem een reden voor de ontwerper en een voor de bezoeker. voor de ontwerper is het makkelijker een boodschap over te brengen en voor de gebruiken is de website dan duidelijker en overzichtelijk
 Noem drie manieren om chaos in je ontwerp te voorkomen. grids, hierarchie, samenhang
 Hoeveel gekkigheid moet er in je werk zitten? net genoeg dat het leuk is maar dat de gebruiker het wel nog snapt
+
+Welke variabelen van Seraphs gebruik je in de opmaak van je songtekst? nog geen
+Wat voegt iedere variabele toe aan je ontwerp (denk aan leesbaarheid, hiërarchie of de uitstraling die je wil bereiken)?tot nu to alleen de regelmaat van de 4e kolom die hoger is dan de rest
+Hoe zou je animatie kunnen toepassen om het ritme of de accenten in de weergave van je songtekst nog beter visueel te maken? het bpm van 125 van Let It Happen toe passen
