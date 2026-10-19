@@ -1,4 +1,3 @@
-/* Kleuren: licht is de standaard, donker volgt de instelling van het apparaat */
 :root {
     --tafel: #3a3a42;
     --plint: #d9dadf;
@@ -40,7 +39,6 @@ button:focus-visible {
     outline-offset: 4px;
 }
 
-/* Balk bovenin, als de knoppenstrip van een draaitafel */
 nav {
     position: sticky;
     top: 0;
@@ -53,7 +51,6 @@ nav {
     border-bottom: 2px solid var(--metaal);
 }
 
-/* Knoppen (menu en cookies) zien eruit als drukknoppen */
 nav a,
 .cookies button {
     padding: 0.5rem 1.25rem;
@@ -69,14 +66,12 @@ nav a,
     cursor: pointer;
 }
 
-/* De pagina waar je op zit krijgt een brandend ledlampje */
 nav a[aria-current="page"] {
     border-color: var(--led);
     color: var(--led);
     box-shadow: 0 3px 0 #000, 0 0 0.75rem var(--led);
 }
 
-/* De plint van de draaitafel, met vier schroeven in de hoeken */
 .draaitafel {
     width: min(62rem, calc(100% - 2rem));
     margin: 1.5rem auto;
@@ -93,7 +88,6 @@ nav a[aria-current="page"] {
     outline-offset: -1rem;
 }
 
-/* Donker: de draaitafel krijgt de felle ledkleuren van een cdj */
 @media (prefers-color-scheme: dark) {
     .draaitafel {
         box-shadow:
@@ -117,7 +111,6 @@ header p {
     font-style: italic;
 }
 
-/* Elke afbeelding is een plaat op een draaitafel, met een spil in het midden */
 .disc {
     display: block;
     position: relative;
@@ -132,7 +125,6 @@ header p {
     box-shadow: 0 0 0 0.5rem var(--plaat), 0 0 0 0.6rem var(--metaal), 0 0.5rem 1rem rgba(0, 0, 0, 0.5);
 }
 
-/* Groeven van de plaat */
 .disc::before {
     content: "";
     position: absolute;
@@ -141,7 +133,6 @@ header p {
     background: repeating-radial-gradient(circle, transparent 0 0.2rem, rgba(0, 0, 0, 0.15) 0.2rem 0.25rem);
 }
 
-/* Spil */
 .disc::after {
     content: "";
     position: absolute;
@@ -150,7 +141,6 @@ header p {
     background: radial-gradient(circle at 35% 35%, #fff, #9a9ca3 60%, #55565c);
 }
 
-/* Grid met platen */
 .tracks {
     display: grid;
     grid-template-columns: 1fr;
@@ -167,7 +157,6 @@ figcaption {
     font-weight: bold;
 }
 
-/* Een speler zonder adres (nog niet geaccepteerd) laten we niet zien */
 iframe:not([src]) {
     display: none;
 }
@@ -180,7 +169,6 @@ iframe {
     border: 0;
 }
 
-/* Uitleg als de speler is geweigerd */
 .speler-uit {
     margin: 0.5rem 0 0;
     font-size: 0.9rem;
@@ -196,7 +184,6 @@ iframe {
     cursor: pointer;
 }
 
-/* Home: de plaat op het draaiplateau met een toonarm */
 .deck {
     display: grid;
     grid-template-columns: 1fr;
@@ -225,7 +212,6 @@ iframe {
     transform: rotate(20deg);
 }
 
-/* Draaipunt van de toonarm */
 .toonarm::before {
     content: "";
     position: absolute;
@@ -238,7 +224,6 @@ iframe {
     background: radial-gradient(circle at 35% 35%, #fff, #9a9ca3 60%, #55565c);
 }
 
-/* Naaldhouder */
 .toonarm::after {
     content: "";
     position: absolute;
@@ -255,7 +240,6 @@ iframe {
     font-size: 1.25rem;
 }
 
-/* Grote startknop met groen ledlicht, zoals de play-knop op een cdj */
 .start {
     display: grid;
     place-items: center;
@@ -272,7 +256,6 @@ iframe {
     text-decoration: none;
 }
 
-/* Cookiemelding onderin beeld (cookies.js laat hem zien en onthoudt de keuze) */
 .cookies {
     position: fixed;
     inset: auto 1rem 1rem;
@@ -302,7 +285,6 @@ iframe {
     gap: 0.75rem;
 }
 
-/* Platen draaien alleen als de bezoeker daar tegen kan */
 @media (prefers-reduced-motion: no-preference) {
     @keyframes draai {
         to {
@@ -321,7 +303,6 @@ iframe {
     }
 }
 
-/* Tablet: 2 kolommen, Flow State over de volle breedte */
 @media (min-width: 30rem) {
     .tracks {
         grid-template-columns: repeat(2, 1fr);
@@ -332,7 +313,6 @@ iframe {
     }
 }
 
-/* Groter scherm: 4 kolommen, Flow State is de grote plaat */
 @media (min-width: 50rem) {
     .draaitafel {
         padding: 3rem;
