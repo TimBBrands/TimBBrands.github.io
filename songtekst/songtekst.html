@@ -4,14 +4,61 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Let It Happen - Tame Impala</title>
+    <link rel="stylesheet" href="../style.css">
     <link rel="stylesheet" href="lyrics.css">
+    <script src="../cookies.js" defer></script>
 </head>
 <body>
-    <main>
-        <h1>Let it happen - tame impala</h1>
-        <!-- Eén regel = precies 5 <span>'s. maak_regels.py vult dit voor je in. -->
-        <p class="regel"><span>It's always around me, all this noise</span> <span>But not nearly as loud as the voice saying</span> <span>"Let it happen, let it happen</span> <span> (it's gonna feel so good)</span> <span><b>let it happen, let it happen"</b></span></p>
-        <p class="regel"><span>All this running around</span> <span>Tryin' to cover my shadow</span> <span>A notion growing inside</span> <span>Now all the others </span> <span><b>seem shallow</b></span></p>
+
+    <nav aria-label="Hoofdmenu">
+        <a href="../index.html">Home</a>
+        <a href="../muziek.html">Muziek</a>
+        <a href="../pagina.html">Inspiraties</a>
+        <a href="songtekst.html" aria-current="page">Songtekst</a>
+    </nav>
+
+    <main class="draaitafel songtekst">
+
+        <header>
+            <h1>Let It Happen</h1>
+            <p>Tame Impala</p>
+        </header>
+
+        <section class="speler">
+            <header>
+                <h2>Luister mee</h2>
+            </header>
+            <iframe title="SoundCloud-speler: Let It Happen" data-src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/reenzo_m/let-it-happen&amp;visual=false&amp;show_comments=false"></iframe>
+            <p class="speler-uit" hidden>Je hebt cookies geweigerd, dus de speler staat uit. <a href="https://soundcloud.com/reenzo_m/let-it-happen">Luister op SoundCloud</a>, of <button type="button" data-keuze="ja">laad de speler alsnog</button>.</p>
+        </section>
+
+        <section class="tekst" lang="en">
+            <header>
+                <h2>Songtekst</h2>
+            </header>
+            <p class="regel"><span>It's</span> <span>always</span> <span>around</span> <span>me,</span> <span>all</span></p>
+            <p class="regel"><span>this</span> <span>noise</span> <span>But</span> <span>not</span> <span>nearly</span></p>
+            <p class="regel"><span>as</span> <span>loud</span> <span>as</span> <span>the</span> <span>voice</span></p>
+            <p class="regel"><span>saying</span> <span>"Let</span> <span>it</span> <span>happen,</span> <span>let</span></p>
+            <p class="regel"><span>it</span> <span>happen</span> <span>(it's</span> <span>gonna</span> <span>feel</span></p>
+            <p class="regel"><span>so</span> <span>good)</span> <span>let</span> <span>it</span> <span>happen,</span></p>
+            <p class="regel"><span>let</span> <span>it</span> <span>happen"</span> <span>All</span> <span>this</span></p>
+            <p class="regel"><span>running</span> <span>around</span> <span>Tryin'</span> <span>to</span> <span>cover</span></p>
+            <p class="regel"><span>my</span> <span>shadow</span> <span>A</span> <span>notion</span> <span>growing</span></p>
+            <p class="regel"><span>inside</span> <span>Now</span> <span>all</span> <span>the</span> <span>others</span></p>
+            <p class="regel"><span>seem</span> <span>shallow</span></p>
+        </section>
+
     </main>
+
+    <dialog class="cookies" aria-labelledby="cookie-titel">
+        <h2 id="cookie-titel">Cookies</h2>
+        <p>Deze website plaatst zelf geen cookies. Op deze pagina staat wel een SoundCloud-speler, en SoundCloud kan daarbij cookies plaatsen. Wil je die speler gebruiken?</p>
+        <form method="dialog">
+            <button type="submit" data-keuze="ja">Accepteren</button>
+            <button type="submit" data-keuze="nee">Weigeren</button>
+        </form>
+    </dialog>
+
 </body>
 </html>
