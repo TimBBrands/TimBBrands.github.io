@@ -159,6 +159,8 @@ Hoe zou je animatie kunnen toepassen om het ritme of de accenten in de weergave 
 
 
 FOTO'S:
+
+process en validator:
 <img width="1917" height="967" alt="image" src="https://github.com/user-attachments/assets/57f5324b-06bb-4239-b755-af6efb46a99d" />
 <img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/fa625998-2192-4929-987f-fba540848de3" />
 <img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/7787d3b1-e4c0-460c-ad3a-12bfc4546d46" />
@@ -190,6 +192,18 @@ FOTO'S:
 <img width="1491" height="827" alt="image" src="https://github.com/user-attachments/assets/af459ec7-5cf4-4f1f-923b-2c543c6e13aa" />
 <img width="1487" height="823" alt="image" src="https://github.com/user-attachments/assets/f0f07274-92bd-4a89-9577-d3b33842865c" />
 <img width="1492" height="823" alt="image" src="https://github.com/user-attachments/assets/7547c943-11dc-41b6-af20-55a48cfb1133" />
+
+schetsen:
+<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/3fcf8470-4e07-4cc8-8d1d-74c48c28d04d" />
+<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/acce4855-d25b-4c79-a9bf-c00c1efa71e3" />
+<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/b01879e2-36b5-4b4a-b5c6-cd019a0643d7" />
+
+toetsenbord en screen reader check:
+<img width="1917" height="1018" alt="image" src="https://github.com/user-attachments/assets/1de08ebd-a3b1-4b42-8a1e-ebef13933074" />
+<img width="1163" height="282" alt="image" src="https://github.com/user-attachments/assets/acd5cf60-ca29-4176-8ff6-e465b1275dd7" /> (alts)
+
+
+
 
 
 
