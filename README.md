@@ -196,13 +196,29 @@ process en validator:
 <img width="1492" height="823" alt="image" src="https://github.com/user-attachments/assets/7547c943-11dc-41b6-af20-55a48cfb1133" />
 
 schetsen:
+<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/b6330567-fcc9-4683-ab75-ecaaa7290814" />
+<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/3795b4e6-a16b-41a3-a4d8-81b06be85df8" />
+<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/00bf082d-52cd-4b55-98ed-cc47b39a632e" />
+<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/79ddbfc3-f752-4d65-b219-a68b2c538635" />
+<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/28c4232a-628f-4cf5-9748-53ee0d610c87" />
+<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/b4f49181-819a-4a2f-ab45-16b94b35d718" />
+<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/e197bbe2-c304-42d6-87f5-03304fe05d0a" />
+<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/b7be3930-92f6-490e-a1f9-56de95e5e1b4" />
 <img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/3fcf8470-4e07-4cc8-8d1d-74c48c28d04d" />
 <img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/acce4855-d25b-4c79-a9bf-c00c1efa71e3" />
 <img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/b01879e2-36b5-4b4a-b5c6-cd019a0643d7" />
+<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/215089df-4bf7-40e9-8397-1790eebc9765" />
+
 
 toetsenbord en screen reader check:
 <img width="1917" height="1018" alt="image" src="https://github.com/user-attachments/assets/1de08ebd-a3b1-4b42-8a1e-ebef13933074" />
 <img width="1163" height="282" alt="image" src="https://github.com/user-attachments/assets/acd5cf60-ca29-4176-8ff6-e465b1275dd7" /> (alts)
+
+retrospect:
+<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/6a10965c-d401-43c1-9d87-be459325717c" />
+<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/21333c1a-2a6a-41d8-8bea-703f82f9d4b3" />
+<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/2cbc71ea-cc4d-4029-9361-3233e3d10d9e" />
+
 
 
 
