@@ -158,6 +158,8 @@ Wat voegt iedere variabele toe aan je ontwerp (denk aan leesbaarheid, hiërarchi
 Hoe zou je animatie kunnen toepassen om het ritme of de accenten in de weergave van je songtekst nog beter visueel te maken? het bpm van 125 van Let It Happen toe passen
 
 
+ik heb dit blok 1 grote fout gemaakt, dat was mijn learning log verkeerd bijhouden. ik dacht dat ik alleen de check outs van de lessen er in hoefde te zetten. daarom heb ik alsnog al mijn foto's en bronnen er in gezet hier onder. de screenshot van github om het proces te laten zien, validaties, schetsen en bronnen. 
+
 FOTO'S:
 
 process en validator:
