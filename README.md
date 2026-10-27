@@ -78,6 +78,7 @@ Waarom is het goed om een grid in je ontwerp toe te passen? Noem een reden voor 
 
 Welke variabelen van Seraphs gebruik je in de opmaak van je songtekst? nog geen Wat voegt iedere variabele toe aan je ontwerp (denk aan leesbaarheid, hiërarchie of de uitstraling die je wil bereiken)?tot nu to alleen de regelmaat van de 4e kolom die hoger is dan de rest Hoe zou je animatie kunnen toepassen om het ritme of de accenten in de weergave van je songtekst nog beter visueel te maken? het bpm van 125 van Let It Happen toe passen
 
+<<<<<<< HEAD
 ik heb dit blok 1 grote fout gemaakt, dat was mijn learning log verkeerd bijhouden. ik dacht dat ik alleen de check outs van de lessen er in hoefde te zetten. daarom heb ik alsnog al mijn foto's en bronnen er in gezet hier onder. de screenshot van github om het proces te laten zien, validaties, schetsen en bronnen.
 
 FOTO'S:
@@ -91,3 +92,85 @@ toetsenbord en screen reader check: image image (alts)
 retrospect: image image image
 
 bronnen: soundcloud, voor afspelers en links voor eigen muziek, odymel setje en let it happen. Google afbeeldingen, voor afbeelding Odymel
+=======
+Welke variabelen van Seraphs gebruik je in de opmaak van je songtekst? nog geen
+Wat voegt iedere variabele toe aan je ontwerp (denk aan leesbaarheid, hiërarchie of de uitstraling die je wil bereiken)?tot nu to alleen de regelmaat van de 4e kolom die hoger is dan de rest
+Hoe zou je animatie kunnen toepassen om het ritme of de accenten in de weergave van je songtekst nog beter visueel te maken? het bpm van 125 van Let It Happen toe passen
+
+
+ik heb dit blok 1 grote fout gemaakt, dat was mijn learning log verkeerd bijhouden. ik dacht dat ik alleen de check outs van de lessen er in hoefde te zetten. daarom heb ik alsnog al mijn foto's en bronnen er in gezet hier onder. de screenshot van github om het proces te laten zien, validaties, schetsen en bronnen. 
+
+FOTO'S:
+
+process en validator:
+<img width="1917" height="967" alt="image" src="https://github.com/user-attachments/assets/57f5324b-06bb-4239-b755-af6efb46a99d" />
+<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/fa625998-2192-4929-987f-fba540848de3" />
+<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/7787d3b1-e4c0-460c-ad3a-12bfc4546d46" />
+<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/26d848f2-20d2-44c0-960c-126dc7e66d28" />
+<img width="1917" height="967" alt="image" src="https://github.com/user-attachments/assets/d3dfe7aa-41a2-4802-a706-79c8ea51dc90" />
+<img width="1917" height="957" alt="image" src="https://github.com/user-attachments/assets/9ec0ccb7-3c25-433e-9846-cac786386f2b" />
+<img width="1917" height="968" alt="image" src="https://github.com/user-attachments/assets/5bc132c3-cfcf-49e3-8c8e-cb37cb2c2a5f" />
+<img width="1917" height="971" alt="image" src="https://github.com/user-attachments/assets/28cae52d-5bb0-482c-9365-8c0bf336da63" />
+<img width="1917" height="953" alt="image" src="https://github.com/user-attachments/assets/b4895f18-7d2d-45c0-bdd7-c1dace02cbfb" />
+<img width="1917" height="690" alt="image" src="https://github.com/user-attachments/assets/af2ecc8d-4a41-41de-b962-f018078241fc" />
+<img width="1917" height="970" alt="image" src="https://github.com/user-attachments/assets/0c57685b-9c88-44bd-ad78-786070a74f79" />
+<img width="1500" height="803" alt="image" src="https://github.com/user-attachments/assets/c5ce2894-291e-40e5-b925-8f32d6ff38f0" />
+<img width="1507" height="818" alt="image" src="https://github.com/user-attachments/assets/13b86080-699c-4a58-88bc-07550673acd1" />
+<img width="1485" height="823" alt="image" src="https://github.com/user-attachments/assets/d6bc8bd3-b068-4b63-b055-06e313c814bd" />
+<img width="1482" height="822" alt="image" src="https://github.com/user-attachments/assets/fc02d2c8-959e-4000-bb37-da2601b44251" />
+<img width="1487" height="585" alt="image" src="https://github.com/user-attachments/assets/6659ecca-5773-4dc6-8305-894ebc00acd8" />
+<img width="1475" height="697" alt="image" src="https://github.com/user-attachments/assets/232d8031-5884-407f-b628-ccb84ce588d2" />
+<img width="1483" height="662" alt="image" src="https://github.com/user-attachments/assets/3e39f6f7-c47e-4222-a3e4-11b6160a4016" />
+<img width="1487" height="822" alt="image" src="https://github.com/user-attachments/assets/dc954d34-1b24-499e-8147-35789660076c" />
+<img width="1490" height="805" alt="image" src="https://github.com/user-attachments/assets/7e05dab8-aa18-4a2a-9d66-a9ce066ae246" />
+<img width="1485" height="822" alt="image" src="https://github.com/user-attachments/assets/4eb4e758-ac10-4a2a-940e-3d31e808fad2" />
+<img width="1490" height="822" alt="image" src="https://github.com/user-attachments/assets/e33bfa79-0628-469b-8f6b-02dcb52661eb" />
+<img width="1482" height="687" alt="image" src="https://github.com/user-attachments/assets/0fcb1230-2549-4eb6-9111-8ce73253915d" />
+<img width="1481" height="620" alt="image" src="https://github.com/user-attachments/assets/def04a42-563d-4558-8182-3e0f86cfd482" />
+<img width="1492" height="796" alt="image" src="https://github.com/user-attachments/assets/2337c6c0-ab51-4a85-b051-4812b62eb57d" />
+<img width="1492" height="822" alt="image" src="https://github.com/user-attachments/assets/2556ea2d-f7d7-42e2-a821-759cf3e5f80d" />
+<img width="1507" height="832" alt="image" src="https://github.com/user-attachments/assets/e2ddc66a-662d-4277-8c99-ca0cd51d9e53" />
+<img width="1490" height="802" alt="image" src="https://github.com/user-attachments/assets/3a69a69e-fb9b-4ae3-8ec4-8ac437cd7e57" />
+<img width="1491" height="827" alt="image" src="https://github.com/user-attachments/assets/af459ec7-5cf4-4f1f-923b-2c543c6e13aa" />
+<img width="1487" height="823" alt="image" src="https://github.com/user-attachments/assets/f0f07274-92bd-4a89-9577-d3b33842865c" />
+<img width="1492" height="823" alt="image" src="https://github.com/user-attachments/assets/7547c943-11dc-41b6-af20-55a48cfb1133" />
+
+schetsen:
+<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/b6330567-fcc9-4683-ab75-ecaaa7290814" />
+<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/3795b4e6-a16b-41a3-a4d8-81b06be85df8" />
+<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/00bf082d-52cd-4b55-98ed-cc47b39a632e" />
+<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/79ddbfc3-f752-4d65-b219-a68b2c538635" />
+<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/28c4232a-628f-4cf5-9748-53ee0d610c87" />
+<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/b4f49181-819a-4a2f-ab45-16b94b35d718" />
+<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/e197bbe2-c304-42d6-87f5-03304fe05d0a" />
+<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/b7be3930-92f6-490e-a1f9-56de95e5e1b4" />
+<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/3fcf8470-4e07-4cc8-8d1d-74c48c28d04d" />
+<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/acce4855-d25b-4c79-a9bf-c00c1efa71e3" />
+<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/b01879e2-36b5-4b4a-b5c6-cd019a0643d7" />
+<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/215089df-4bf7-40e9-8397-1790eebc9765" />
+
+
+toetsenbord en screen reader check:
+<img width="1917" height="1018" alt="image" src="https://github.com/user-attachments/assets/1de08ebd-a3b1-4b42-8a1e-ebef13933074" />
+<img width="1163" height="282" alt="image" src="https://github.com/user-attachments/assets/acd5cf60-ca29-4176-8ff6-e465b1275dd7" /> (alts)
+
+retrospect:
+<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/6a10965c-d401-43c1-9d87-be459325717c" />
+<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/21333c1a-2a6a-41d8-8bea-703f82f9d4b3" />
+<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/2cbc71ea-cc4d-4029-9361-3233e3d10d9e" />
+
+
+
+
+
+bronnen: soundcloud, voor afspelers en links voor eigen muziek, odymel setje en let it happen. Google afbeeldingen, voor afbeelding Odymel
+
+
+
+
+
+
+
+
+
+>>>>>>> 75a08f38512c63197222fa934ef4140eb76b8a37
